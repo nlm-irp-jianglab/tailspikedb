@@ -2,6 +2,7 @@
 Code and data used to build the website https://jianglabnlm.com/tailspikedb/
 
 # File content
+```
 .
 ├── app
 │   ├── about.html
@@ -28,6 +29,7 @@ Code and data used to build the website https://jianglabnlm.com/tailspikedb/
 └── website_tpl
     ├── 404.html
     └── _site
+```
 
 # Prerequist
 - [Docker](https://www.docker.com/)
