@@ -72,7 +72,7 @@ shinyUI(fluidPage(
                         verbatimTextOutput("alignment")
                       )
              ),
-	    tabPanel("Access to the data",includeHTML("download.html"))
+	    tabPanel("Access to data",includeHTML("download.html"))
            )
     ),
     #column(1 ,includeHTML("search.html"))
