@@ -1,0 +1,52 @@
+2023-05-07 16:14:24,261:DEBUG:certbot._internal.main:certbot version: 2.5.0
+2023-05-07 16:14:24,261:DEBUG:certbot._internal.main:Location of certbot entry point: /usr/local/bin/certbot
+2023-05-07 16:14:24,261:DEBUG:certbot._internal.main:Arguments: ['--standalone', '--preferred-challenges', 'http', '-d', 'jianglabnlm.com', '-d', 'www.jianglabnlm.com']
+2023-05-07 16:14:24,262:DEBUG:certbot._internal.main:Discovered plugins: PluginsRegistry(PluginEntryPoint#manual,PluginEntryPoint#null,PluginEntryPoint#standalone,PluginEntryPoint#webroot)
+2023-05-07 16:14:24,336:DEBUG:certbot._internal.log:Root logging level set at 30
+2023-05-07 16:14:24,357:DEBUG:certbot._internal.plugins.selection:Requested authenticator standalone and installer None
+2023-05-07 16:14:24,361:DEBUG:certbot._internal.plugins.selection:Single candidate plugin: * standalone
+Description: Runs an HTTP server locally which serves the necessary validation files under the /.well-known/acme-challenge/ request path. Suitable if there is no HTTP server already running. HTTP challenge only (wildcards not supported).
+Interfaces: Authenticator, Plugin
+Entry point: standalone = certbot._internal.plugins.standalone:Authenticator
+Initialized: <certbot._internal.plugins.standalone.Authenticator object at 0x7fcd40d90fd0>
+Prep: True
+2023-05-07 16:14:24,362:DEBUG:certbot._internal.plugins.selection:Selected authenticator <certbot._internal.plugins.standalone.Authenticator object at 0x7fcd40d90fd0> and installer None
+2023-05-07 16:14:24,362:INFO:certbot._internal.plugins.selection:Plugins selected: Authenticator standalone, Installer None
+2023-05-07 16:14:24,495:DEBUG:certbot._internal.main:Picked account: <Account(RegistrationResource(body=Registration(key=None, contact=(), agreement=None, status=None, terms_of_service_agreed=None, only_return_existing=None, external_account_binding=None), uri='https://acme-v02.api.letsencrypt.org/acme/acct/1097884697', new_authzr_uri=None, terms_of_service=None), b8607fdccf83ee63dcc7602d62736f2a, Meta(creation_dt=datetime.datetime(2023, 5, 7, 13, 31, 59, tzinfo=<UTC>), creation_host='dbde93c6ecaa', register_to_eff=None))>
+2023-05-07 16:14:24,496:DEBUG:acme.client:Sending GET request to https://acme-v02.api.letsencrypt.org/directory.
+2023-05-07 16:14:24,499:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): acme-v02.api.letsencrypt.org:443
+2023-05-07 16:14:24,611:DEBUG:urllib3.connectionpool:https://acme-v02.api.letsencrypt.org:443 "GET /directory HTTP/1.1" 200 756
+2023-05-07 16:14:24,612:DEBUG:acme.client:Received response:
+HTTP 200
+Server: nginx
+Date: Sun, 07 May 2023 16:14:24 GMT
+Content-Type: application/json
+Content-Length: 756
+Connection: keep-alive
+Cache-Control: public, max-age=0, no-cache
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=604800
+
+{
+  "-AyetyZqr9E": "https://community.letsencrypt.org/t/adding-random-entries-to-the-directory/33417",
+  "keyChange": "https://acme-v02.api.letsencrypt.org/acme/key-change",
+  "meta": {
+    "caaIdentities": [
+      "letsencrypt.org"
+    ],
+    "termsOfService": "https://letsencrypt.org/documents/LE-SA-v1.3-September-21-2022.pdf",
+    "website": "https://letsencrypt.org"
+  },
+  "newAccount": "https://acme-v02.api.letsencrypt.org/acme/new-acct",
+  "newNonce": "https://acme-v02.api.letsencrypt.org/acme/new-nonce",
+  "newOrder": "https://acme-v02.api.letsencrypt.org/acme/new-order",
+  "renewalInfo": "https://acme-v02.api.letsencrypt.org/get/draft-ietf-acme-ari-00/renewalInfo/",
+  "revokeCert": "https://acme-v02.api.letsencrypt.org/acme/revoke-cert"
+}
+2023-05-07 16:14:24,766:DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-05-07 16:14:24,815:DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-05-07 16:14:24,817:DEBUG:certbot.ocsp:OCSP response for certificate /etc/letsencrypt/archive/jianglabnlm.com/cert3.pem is signed by the certificate's issuer.
+2023-05-07 16:14:24,818:DEBUG:certbot.ocsp:OCSP certificate status for /etc/letsencrypt/archive/jianglabnlm.com/cert3.pem is: OCSPCertStatus.GOOD
+2023-05-07 16:14:24,822:DEBUG:certbot._internal.display.obj:Notifying user: Certificate not yet due for renewal
+2023-05-07 16:14:27,004:INFO:certbot._internal.main:Keeping the existing certificate
+2023-05-07 16:14:27,007:DEBUG:certbot._internal.display.obj:Notifying user: Certificate not yet due for renewal; no action taken.

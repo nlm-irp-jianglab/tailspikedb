@@ -49,7 +49,8 @@ shinyUI(fluidPage(
                       
                       #This block gives us all the inputs:
                       mainPanel(
-                        headerPanel('Blast'),
+                        h1('Blast'),
+			p("Blast your phage protein/gene sequence against the tailspike protein database to get an idea if it is likely to be a potential tailspike protein."),
                         textAreaInput('query', 'Input sequence:', value = "", placeholder = "", width = "1000", height="200px"),
                         selectInput("db", "Database:", choices=c(custom_db), width="200px"),
                         selectInput("program", "Program:", choices=c("blastp","blastn","blastx","tblastn","tblastx"), width="100px"),
@@ -70,7 +71,8 @@ shinyUI(fluidPage(
                         p("Alignment:", tableOutput("clicked")),
                         verbatimTextOutput("alignment")
                       )
-             )
+             ),
+	    tabPanel("Access to the data",includeHTML("download.html"))
            )
     ),
     #column(1 ,includeHTML("search.html"))

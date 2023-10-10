@@ -1,0 +1,30 @@
+version: '3' # specify docker-compose version
+
+# Define the services/containers to be run
+services:
+
+  proxy:
+    image: nginx:latest
+    container_name: proxy
+    depends_on:
+      - tailspikedb
+    volumes:
+      - "./website_tpl/_site:/var/www/public"
+      - "./nginx/nginx.conf:/etc/nginx/nginx.conf"
+      - "./website_tpl/404.html:/usr/share/nginx/html/404.html"
+      - "./etc/letsencrypt:/etc/letsencrypt"
+      - "./var/lib/letsencrypt:/var/lib/letsencrypt"
+      - "./var/log/letsencrypt/:/var/log/letsencrypt/"
+    ports:
+      - 80:80
+      - 443:443
+
+  tailspikedb:
+    image: tailspikedb
+    container_name: tailspikedb
+    build:
+      context: ./tailspikedb
+    volumes:
+      - ./app:/srv/shiny-server/
+      - ./log:/var/log/shiny-server/
+    restart: on-failure

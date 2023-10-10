@@ -34,7 +34,7 @@ txt2table<-function(infile){
 }
 
 # Define server logic
-shinyServer(function(input, output, session) {
+shinyServer(function(input, output) {
   
   custom_db <- c("Tailspike proteins","Tailspike genes")
   custom_db_path <- c("data/tailspike.fa","data/tailspike_nt.fa")
