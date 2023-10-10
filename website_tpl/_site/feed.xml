@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Jiang Lab at NLM</title>
+    <description>The website for the bioinformatic research group leading by Xiaofang Jiang at the National Library of Medicine, National Institutes of Health.</description>
+    <link>https:///</link>
+    <atom:link href="https:///feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 10 Aug 2023 11:48:33 -0500</pubDate>
+    <lastBuildDate>Thu, 10 Aug 2023 11:48:33 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+  </channel>
+</rss>

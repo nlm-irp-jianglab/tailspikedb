@@ -1,0 +1,1 @@
+awk '{print "---""\n" "title: " $1"\n" "year: " $2"\n" "authors: " $3"\n" "journal: " $4"\n" "volume: " $9"\n" "issue: " $10"\n" "pages: " $11"\n" "doi: " $5"\n" "PMID: " $6"\n" "PMCID: " $7"\n" "preprint: ""\n" "google_scholar: ""\n" "github: ""\n" "data: ""\n" "people:  [ " $12  " ]""\n" "media: ""\n" "section: " $13"\n" "---\n"  >  $8 ".yml"}' FS=$'\t' $1
