@@ -1,0 +1,490 @@
+Cluster ID	Serotype	 vOTU in the cluster with the serotype	 vOTU in the cluster	percentage of vOTU in the cluster with the serotype	Confidence level
+cl60_1	KX11;KX42	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_3	KX03	2	2	1.0	Highly confident
+cl60_8	Klebsiella-K13	1	3	0.333333	Uncertain
+cl60_15	O51	21	21	1.0	Highly confident
+cl60_17	O13/O129/O135	1	1	1.0	Highly confident
+cl60_19	Klebsiella-K47	4	6	0.666667	Confident
+cl60_29	O153/O178	69	72	0.958333	Highly confident
+cl60_34	KX21	1	2	0.5	Uncertain
+cl60_37	Klebsiella-K102	1	1	1.0	Highly confident
+cl60_38	KX42	2	8	0.25	Uncertain
+cl60_45	O8/O9/O9a	74	85	0.870588	Confident
+cl60_49	O93	7	10	0.7	Confident
+cl60_52	KX24	81	211	0.383886	Confident
+cl60_53	O154	9	16	0.5625	Confident
+cl60_54	O153/O178	62	67	0.925373	Highly confident
+cl60_57	O76	3	3	1.0	Highly confident
+cl60_60	Klebsiella-K53	1	1	1.0	Highly confident
+cl60_62	O18/O18ab/O18ac	29	30	0.966667	Highly confident
+cl60_66	Klebsiella-K9	1	1	1.0	Highly confident
+cl60_68	Klebsiella-K35	9	11	0.818182	Confident
+cl60_73	KX11	5	5	1.0	Highly confident
+cl60_74	Klebsiella-K60	1	1	1.0	Highly confident
+cl60_75	O5	4	8	0.5	Confident
+cl60_77	KX16	24	27	0.888889	Confident
+cl60_81	Klebsiella-K127	1	1	1.0	Highly confident
+cl60_82	Klebsiella-K47	9	10	0.9	Confident
+cl60_84	O26	34	34	1.0	Highly confident
+cl60_87	K11	9	18	0.5	Confident
+cl60_88	O8/O9/O9a	1	1	1.0	Highly confident
+cl60_89	O185	28	28	1.0	Highly confident
+cl60_91	Klebsiella-K123	2	6	0.333333	Uncertain
+cl60_95	KX02	173	200	0.865	Confident
+cl60_103	O152	1	1	1.0	Highly confident
+cl60_104	OX13	16	17	0.941176	Highly confident
+cl60_105	KX02	6	7	0.857143	Confident
+cl60_106	KX21	204	259	0.787645	Confident
+cl60_109	KX02	2	3	0.666667	Uncertain
+cl60_110	OX13	12	12	1.0	Highly confident
+cl60_112	Klebsiella-K115	6	7	0.857143	Confident
+cl60_114	KX03	1	1	1.0	Highly confident
+cl60_121	Klebsiella-K127	40	57	0.701754	Confident
+cl60_125	O86/O90/O127	8	8	1.0	Highly confident
+cl60_127	Klebsiella-K53	10	12	0.833333	Confident
+cl60_130	O22	2	2	1.0	Highly confident
+cl60_132	O39	16	16	1.0	Highly confident
+cl60_135	O86/O90/O127	19	19	1.0	Highly confident
+cl60_138	O54	3	3	1.0	Highly confident
+cl60_144	Klebsiella-K115	1	2	0.5	Uncertain
+cl60_148	O166	1	1	1.0	Highly confident
+cl60_151	O24/O56/O157	10	10	1.0	Highly confident
+cl60_158	KX53	45	106	0.424528	Confident
+cl60_159	O24/O56/O157	6	7	0.857143	Confident
+cl60_164	O8/O9/O9a	8	8	1.0	Highly confident
+cl60_165	O132;O148;O15;O19;O20/O137;O8/O9/O9a	1;1;1;1;1;1	6	0.166667;0.166667;0.166667;0.166667;0.166667;0.166667	Uncertain;Uncertain;Uncertain;Uncertain;Uncertain;Uncertain
+cl60_170	Klebsiella-K30	2	2	1.0	Highly confident
+cl60_173	O62/O68	1	1	1.0	Highly confident
+cl60_175	O123/O186	54	63	0.857143	Confident
+cl60_176	KX02	41	48	0.854167	Confident
+cl60_178	O166	51	57	0.894737	Confident
+cl60_179	KX44	15	17	0.882353	Confident
+cl60_180	O48	24	26	0.923077	Highly confident
+cl60_182	KX03	2	2	1.0	Highly confident
+cl60_183	KX40	25	33	0.757576	Confident
+cl60_186	KX42	2	2	1.0	Highly confident
+cl60_187	O112;O8/O9/O9a	10;12	20	0.5;0.6	Confident;Confident
+cl60_188	KX42	181	192	0.942708	Highly confident
+cl60_191	Klebsiella-K14	13	17	0.764706	Confident
+cl60_193	O8/O9/O9a	2	2	1.0	Highly confident
+cl60_195	Klebsiella-K71	6	6	1.0	Highly confident
+cl60_202	KX19;KX21	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_206	O8/O9/O9a;Shigella-B17	14;15	22	0.636364;0.681818	Confident;Confident
+cl60_209	Klebsiella-K25	8	12	0.666667	Confident
+cl60_214	Klebsiella-K23	2	3	0.666667	Uncertain
+cl60_220	Klebsiella-K53	10	12	0.833333	Confident
+cl60_227	O182	1	1	1.0	Highly confident
+cl60_229	O15	2	3	0.666667	Uncertain
+cl60_230	O187	17	17	1.0	Highly confident
+cl60_234	O71	36	36	1.0	Highly confident
+cl60_236	O40	4	9	0.444444	Confident
+cl60_237	O159	4	4	1.0	Highly confident
+cl60_242	O174	49	55	0.890909	Confident
+cl60_243	O16;O23;O3;O88	1;1;1;1	4	0.25;0.25;0.25;0.25	Uncertain;Uncertain;Uncertain;Uncertain
+cl60_244	O38	20	20	1.0	Highly confident
+cl60_248	KX29	2	2	1.0	Highly confident
+cl60_249	KX03	1	1	1.0	Highly confident
+cl60_253	O152	1	1	1.0	Highly confident
+cl60_255	O79	4	4	1.0	Highly confident
+cl60_256	O98	1	1	1.0	Highly confident
+cl60_258	O8/O9/O9a	8	10	0.8	Confident
+cl60_264	O8/O9/O9a	11	11	1.0	Highly confident
+cl60_266	O180	3	3	1.0	Highly confident
+cl60_267	KX53	29	71	0.408451	Confident
+cl60_273	KX75	3	5	0.6	Uncertain
+cl60_279	KX42	1	1	1.0	Highly confident
+cl60_281	O108	5	6	0.833333	Confident
+cl60_282	O8/O9/O9a	38	39	0.974359	Highly confident
+cl60_287	O3;O89/O101/O162	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_290	O48	1	1	1.0	Highly confident
+cl60_295	O154;O21	8;6	21	0.380952;0.285714	Confident;Confident
+cl60_298	KX42	2	2	1.0	Highly confident
+cl60_300	KX29	94	229	0.41048	Confident
+cl60_307	KX69	1	2	0.5	Uncertain
+cl60_309	O8/O9/O9a	20	21	0.952381	Highly confident
+cl60_310	KX75	13	15	0.866667	Confident
+cl60_313	O21	34	43	0.790698	Confident
+cl60_314	O142	17	17	1.0	Highly confident
+cl60_316	O133	1	1	1.0	Highly confident
+cl60_317	O154	4	6	0.666667	Confident
+cl60_319	O51	5	6	0.833333	Confident
+cl60_324	O6	56	57	0.982456	Highly confident
+cl60_326	KX75	1	1	1.0	Highly confident
+cl60_330	Klebsiella-K13;K2	9;10	24	0.375;0.416667	Confident;Confident
+cl60_331	O6	34	34	1.0	Highly confident
+cl60_333	O74	5	5	1.0	Highly confident
+cl60_334	O8/O9/O9a	1	1	1.0	Highly confident
+cl60_336	O188;Shigella-B16	26;24	28	0.928571;0.857143	Highly confident;Confident
+cl60_338	O167	5	6	0.833333	Confident
+cl60_340	O118/O151	19	19	1.0	Highly confident
+cl60_341	O46/O134	35	46	0.76087	Confident
+cl60_342	O18/O18ab/O18ac	36	36	1.0	Highly confident
+cl60_344	KX75	2	2	1.0	Highly confident
+cl60_345	O54	1	1	1.0	Highly confident
+cl60_348	KX22	64	123	0.520325	Confident
+cl60_351	Klebsiella-K57	18	28	0.642857	Confident
+cl60_353	Klebsiella-K46	2	2	1.0	Highly confident
+cl60_354	O180	21	21	1.0	Highly confident
+cl60_355	KX03	1	3	0.333333	Uncertain
+cl60_359	Klebsiella-K47	30	37	0.810811	Confident
+cl60_364	O39	16	16	1.0	Highly confident
+cl60_367	Klebsiella-K25	3	4	0.75	Uncertain
+cl60_371	KX75	41	55	0.745455	Confident
+cl60_374	O176;O19	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_389	O80	11	11	1.0	Highly confident
+cl60_391	Shigella-B9	3	4	0.75	Uncertain
+cl60_394	O8/O9/O9a;Shigella-D10	2;2	3	0.666667;0.666667	Uncertain;Uncertain
+cl60_395	O36	1	1	1.0	Highly confident
+cl60_398	O141/O141ab/O141ac	21	24	0.875	Confident
+cl60_401	O54	15	15	1.0	Highly confident
+cl60_405	Klebsiella-K115	1	1	1.0	Highly confident
+cl60_407	KX42	1	1	1.0	Highly confident
+cl60_408	Klebsiella-K71	1	1	1.0	Highly confident
+cl60_409	O113	25	27	0.925926	Highly confident
+cl60_410	O54	17	17	1.0	Highly confident
+cl60_412	O22	2	2	1.0	Highly confident
+cl60_413	Klebsiella-K43	5	5	1.0	Highly confident
+cl60_414	O133	7	7	1.0	Highly confident
+cl60_416	KX42	20	20	1.0	Highly confident
+cl60_418	KX36	48	64	0.75	Confident
+cl60_422	O4	25	25	1.0	Highly confident
+cl60_426	O15;O18/O18ab/O18ac	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_428	KX03	1	1	1.0	Highly confident
+cl60_430	O8/O9/O9a	6	7	0.857143	Confident
+cl60_431	O45	1	1	1.0	Highly confident
+cl60_439	O93	7	8	0.875	Confident
+cl60_442	O112	23	23	1.0	Highly confident
+cl60_443	O93	30	36	0.833333	Confident
+cl60_445	KX47	67	86	0.77907	Confident
+cl60_447	O13/O129/O135	1	1	1.0	Highly confident
+cl60_449	Klebsiella-K71	1	1	1.0	Highly confident
+cl60_451	O20/O137	35	35	1.0	Highly confident
+cl60_458	O144	6	6	1.0	Highly confident
+cl60_459	O25	3	3	1.0	Highly confident
+cl60_460	O8/O9/O9a;Shigella-D10	1;1	1	1.0;1.0	Highly confident;Highly confident
+cl60_466	O5	51	54	0.944444	Highly confident
+cl60_475	O70	14	16	0.875	Confident
+cl60_478	KX42;KX46	92;95	198	0.464646;0.479798	Confident;Confident
+cl60_485	O8/O9/O9a	4	5	0.8	Confident
+cl60_486	O133	6	6	1.0	Highly confident
+cl60_491	O8/O9/O9a	8	8	1.0	Highly confident
+cl60_492	O8/O9/O9a	3	3	1.0	Highly confident
+cl60_494	O15	1	1	1.0	Highly confident
+cl60_495	O184	8	8	1.0	Highly confident
+cl60_499	KX42	6	34	0.176471	Confident
+cl60_500	O78	15	16	0.9375	Highly confident
+cl60_502	O29	9	10	0.9	Confident
+cl60_503	O2/O50	12	12	1.0	Highly confident
+cl60_505	O116	1	1	1.0	Highly confident
+cl60_507	O112	9	9	1.0	Highly confident
+cl60_509	O141/O141ab/O141ac	19	26	0.730769	Confident
+cl60_510	O32;O83	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_512	O184	1	1	1.0	Highly confident
+cl60_514	KX42	1	1	1.0	Highly confident
+cl60_516	O159	33	35	0.942857	Highly confident
+cl60_520	KX22	146	307	0.47557	Confident
+cl60_523	Klebsiella-K47	25	33	0.757576	Confident
+cl60_526	O170	12	12	1.0	Highly confident
+cl60_527	KX42	1	1	1.0	Highly confident
+cl60_528	O45	12	15	0.8	Confident
+cl60_533	O16	13	13	1.0	Highly confident
+cl60_536	O1	2	3	0.666667	Uncertain
+cl60_537	KX42	37	43	0.860465	Confident
+cl60_541	O61	15	18	0.833333	Confident
+cl60_542	O8/O9/O9a	122	127	0.96063	Highly confident
+cl60_544	KX29	3	4	0.75	Uncertain
+cl60_546	Klebsiella-K9	1	1	1.0	Highly confident
+cl60_547	O71	10	10	1.0	Highly confident
+cl60_549	O29	7	7	1.0	Highly confident
+cl60_550	Klebsiella-K46	4	4	1.0	Highly confident
+cl60_553	O139	7	7	1.0	Highly confident
+cl60_554	KX28	2	6	0.333333	Uncertain
+cl60_556	O169/O183	10	11	0.909091	Highly confident
+cl60_559	O2/O50	38	38	1.0	Highly confident
+cl60_562	O108	30	30	1.0	Highly confident
+cl60_563	O88	13	14	0.928571	Highly confident
+cl60_564	O169/O183	9	9	1.0	Highly confident
+cl60_571	O83	41	76	0.539474	Confident
+cl60_572	Klebsiella-K13	5	7	0.714286	Confident
+cl60_574	O16	5	7	0.714286	Confident
+cl60_575	O85	9	9	1.0	Highly confident
+cl60_576	O26	56	62	0.903226	Highly confident
+cl60_577	O105	2	4	0.5	Uncertain
+cl60_581	O126;O154;O177	1;1;1	3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_583	KX41	1	1	1.0	Highly confident
+cl60_584	O53	3	3	1.0	Highly confident
+cl60_585	O181	8	8	1.0	Highly confident
+cl60_589	O174	1	1	1.0	Highly confident
+cl60_590	O146	8	8	1.0	Highly confident
+cl60_593	O7	39	42	0.928571	Highly confident
+cl60_596	O82	35	38	0.921053	Highly confident
+cl60_603	O2/O50	39	40	0.975	Highly confident
+cl60_605	O95	3	3	1.0	Highly confident
+cl60_606	O8/O9/O9a	22	23	0.956522	Highly confident
+cl60_609	O32	1	1	1.0	Highly confident
+cl60_615	O8/O9/O9a;Shigella-B7	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_616	KX28	1	1	1.0	Highly confident
+cl60_617	KX42	1	33	0.030303	Uncertain
+cl60_618	O79	2	2	1.0	Highly confident
+cl60_621	O79	12	12	1.0	Highly confident
+cl60_623	O143	10	11	0.909091	Highly confident
+cl60_625	O115	17	17	1.0	Highly confident
+cl60_627	O1	2	2	1.0	Highly confident
+cl60_632	O5	21	23	0.913043	Highly confident
+cl60_633	O160	39	52	0.75	Confident
+cl60_636	K96	2	5	0.4	Uncertain
+cl60_640	O163	23	23	1.0	Highly confident
+cl60_642	O37	8	9	0.888889	Confident
+cl60_643	O166	6	6	1.0	Highly confident
+cl60_644	O147	22	27	0.814815	Confident
+cl60_646	O41	9	9	1.0	Highly confident
+cl60_647	O45	5	5	1.0	Highly confident
+cl60_650	O150	13	13	1.0	Highly confident
+cl60_652	O147;O21;O24/O56/O157	1;1;1	3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_657	KX42	92	212	0.433962	Confident
+cl60_661	O154	2	3	0.666667	Uncertain
+cl60_663	O7	1	1	1.0	Highly confident
+cl60_665	Klebsiella-K63	39	50	0.78	Confident
+cl60_667	O3	3	6	0.5	Uncertain
+cl60_668	O82	4	5	0.8	Confident
+cl60_672	KX05	1	1	1.0	Highly confident
+cl60_676	O53	1	1	1.0	Highly confident
+cl60_677	KX41	19	23	0.826087	Confident
+cl60_678	O53	1	1	1.0	Highly confident
+cl60_682	O23	8	8	1.0	Highly confident
+cl60_683	O70	6	6	1.0	Highly confident
+cl60_684	O102;O24/O56/O157;O25;O8/O9/O9a;Shigella-B18	2;4;2;2;2	26	0.0769231;0.153846;0.0769231;0.0769231;0.0769231	Uncertain;Confident;Uncertain;Uncertain;Uncertain
+cl60_687	O18/O18ab/O18ac	2	2	1.0	Highly confident
+cl60_688	O153/O178	48	52	0.923077	Highly confident
+cl60_689	O105	6	6	1.0	Highly confident
+cl60_690	O2/O50	1	1	1.0	Highly confident
+cl60_691	O13/O129/O135	1	1	1.0	Highly confident
+cl60_695	O96	7	7	1.0	Highly confident
+cl60_696	O1	1	1	1.0	Highly confident
+cl60_697	O74	22	22	1.0	Highly confident
+cl60_698	O126;O53	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_700	Klebsiella-K25	1	2	0.5	Uncertain
+cl60_702	O49	1	1	1.0	Highly confident
+cl60_706	O100	19	21	0.904762	Highly confident
+cl60_708	O148;O19;O86/O90/O127	1;1;1	3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_709	O136	1	1	1.0	Highly confident
+cl60_712	O91	57	60	0.95	Highly confident
+cl60_714	O80	5	5	1.0	Highly confident
+cl60_715	O10	3	3	1.0	Highly confident
+cl60_716	O55	27	28	0.964286	Highly confident
+cl60_718	O168	18	18	1.0	Highly confident
+cl60_719	OX25	4	4	1.0	Highly confident
+cl60_721	O18/O18ab/O18ac	36	37	0.972973	Highly confident
+cl60_723	KX41	1	1	1.0	Highly confident
+cl60_725	KX42	11	90	0.122222	Confident
+cl60_727	O133;O8/O9/O9a	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_729	O116	5	5	1.0	Highly confident
+cl60_730	O138	11	11	1.0	Highly confident
+cl60_733	O168	19	19	1.0	Highly confident
+cl60_734	KX11;KX42	1;1	3	0.333333;0.333333	Uncertain;Uncertain
+cl60_738	O102	24	28	0.857143	Confident
+cl60_739	O153/O178	22	24	0.916667	Highly confident
+cl60_743	KX11	34	48	0.708333	Confident
+cl60_744	O141/O141ab/O141ac	15	16	0.9375	Highly confident
+cl60_746	O35	8	8	1.0	Highly confident
+cl60_747	O80	35	37	0.945946	Highly confident
+cl60_748	KX16	30	32	0.9375	Highly confident
+cl60_752	O18/O18ab/O18ac	3	3	1.0	Highly confident
+cl60_754	O107/O117	19	25	0.76	Confident
+cl60_755	O141/O141ab/O141ac	1	1	1.0	Highly confident
+cl60_756	O4	2	2	1.0	Highly confident
+cl60_759	KX42	1	1	1.0	Highly confident
+cl60_761	O159	1	1	1.0	Highly confident
+cl60_763	O3	1	1	1.0	Highly confident
+cl60_765	O19	1	1	1.0	Highly confident
+cl60_766	O113	43	44	0.977273	Highly confident
+cl60_767	O8/O9/O9a	33	34	0.970588	Highly confident
+cl60_768	O110	22	23	0.956522	Highly confident
+cl60_772	O136	29	29	1.0	Highly confident
+cl60_774	O103	110	121	0.909091	Highly confident
+cl60_776	O112;O174;O76	1;1;1	3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_777	O17/O44/O73/O77/O106	15	17	0.882353	Confident
+cl60_778	O36	15	16	0.9375	Highly confident
+cl60_779	O66	1	1	1.0	Highly confident
+cl60_781	O8/O9/O9a	5	5	1.0	Highly confident
+cl60_784	Klebsiella-K47	1	1	1.0	Highly confident
+cl60_788	KX41	73	93	0.784946	Confident
+cl60_794	O15	39	40	0.975	Highly confident
+cl60_797	O8/O9/O9a	19	22	0.863636	Confident
+cl60_798	O8/O9/O9a	4	4	1.0	Highly confident
+cl60_801	O78	54	61	0.885246	Confident
+cl60_805	O63	2	3	0.666667	Uncertain
+cl60_806	O76	45	51	0.882353	Confident
+cl60_808	O8/O9/O9a	13	13	1.0	Highly confident
+cl60_809	O133	9	10	0.9	Confident
+cl60_810	O128ab/O128ac/O128	53	58	0.913793	Highly confident
+cl60_813	Shigella-B2	8	8	1.0	Highly confident
+cl60_815	O141/O141ab/O141ac;O145;O2/O50;O21;O51;O85;O91	1;1;1;1;1;1;1	7	0.142857;0.142857;0.142857;0.142857;0.142857;0.142857;0.142857	Uncertain;Uncertain;Uncertain;Uncertain;Uncertain;Uncertain;Uncertain
+cl60_820	Klebsiella-K25	1	1	1.0	Highly confident
+cl60_823	O133	2	3	0.666667	Uncertain
+cl60_824	O114;O5	8;7	17	0.470588;0.411765	Confident;Confident
+cl60_826	O69	9	9	1.0	Highly confident
+cl60_828	O4	1	1	1.0	Highly confident
+cl60_829	O75	2	2	1.0	Highly confident
+cl60_830	O103	1	1	1.0	Highly confident
+cl60_834	KX42	2	3	0.666667	Uncertain
+cl60_836	O171	13	16	0.8125	Confident
+cl60_837	O114	17	17	1.0	Highly confident
+cl60_838	O149	21	26	0.807692	Confident
+cl60_841	O86/O90/O127	3	3	1.0	Highly confident
+cl60_844	Klebsiella-K20;K57;K63	1;3;1	26	0.0384615;0.115385;0.0384615	Uncertain;Uncertain;Uncertain
+cl60_847	O17/O44/O73/O77/O106	39	47	0.829787	Confident
+cl60_848	O116	23	25	0.92	Highly confident
+cl60_849	O176	20	20	1.0	Highly confident
+cl60_850	Shigella-B9	12	12	1.0	Highly confident
+cl60_852	O34	7	7	1.0	Highly confident
+cl60_856	O62/O68	13	15	0.866667	Confident
+cl60_857	O145	11	11	1.0	Highly confident
+cl60_858	O58	11	13	0.846154	Confident
+cl60_860	O20/O137	6	7	0.857143	Confident
+cl60_861	KX69	1	15	0.0666667	Uncertain
+cl60_865	O87	29	30	0.966667	Highly confident
+cl60_867	KX05	1	1	1.0	Highly confident
+cl60_868	O8/O9/O9a	2	3	0.666667	Uncertain
+cl60_870	KX21	1	1	1.0	Highly confident
+cl60_873	O132	1	1	1.0	Highly confident
+cl60_876	KX03	1	1	1.0	Highly confident
+cl60_879	O2/O50	8	8	1.0	Highly confident
+cl60_880	O120	15	15	1.0	Highly confident
+cl60_883	O89/O101/O162	1	1	1.0	Highly confident
+cl60_884	O29	2	2	1.0	Highly confident
+cl60_885	O53	8	8	1.0	Highly confident
+cl60_888	O25	7	7	1.0	Highly confident
+cl60_889	O29	13	14	0.928571	Highly confident
+cl60_890	O104	31	37	0.837838	Confident
+cl60_891	O29	45	45	1.0	Highly confident
+cl60_893	KX42	10	51	0.196078	Confident
+cl60_895	O17/O44/O73/O77/O106	17	18	0.944444	Highly confident
+cl60_897	O81	77	78	0.987179	Highly confident
+cl60_898	Klebsiella-K57	3	3	1.0	Highly confident
+cl60_900	O111	66	67	0.985075	Highly confident
+cl60_903	O5	4	5	0.8	Confident
+cl60_905	O148	1	1	1.0	Highly confident
+cl60_909	O88	3	3	1.0	Highly confident
+cl60_910	O70	15	18	0.833333	Confident
+cl60_911	O53	4	4	1.0	Highly confident
+cl60_913	O53	2	2	1.0	Highly confident
+cl60_916	O4;O6	12;11	36	0.333333;0.305556	Confident;Confident
+cl60_917	O49	14	18	0.777778	Confident
+cl60_919	O2/O50	2	2	1.0	Highly confident
+cl60_920	KX39	1	1	1.0	Highly confident
+cl60_922	O8/O9/O9a	37	37	1.0	Highly confident
+cl60_923	O154;O51	2;2	5	0.4;0.4	Uncertain;Uncertain
+cl60_924	KX03	1	1	1.0	Highly confident
+cl60_925	O139	6	9	0.666667	Confident
+cl60_927	O166	1	1	1.0	Highly confident
+cl60_928	O38	1	1	1.0	Highly confident
+cl60_929	O70	6	6	1.0	Highly confident
+cl60_932	O25	16	18	0.888889	Confident
+cl60_934	KX68	6	10	0.6	Confident
+cl60_936	O36	18	24	0.75	Confident
+cl60_937	O85	7	7	1.0	Highly confident
+cl60_941	O29	1	1	1.0	Highly confident
+cl60_942	O3	25	27	0.925926	Highly confident
+cl60_944	O160	2	2	1.0	Highly confident
+cl60_945	O140	26	27	0.962963	Highly confident
+cl60_947	O75	25	28	0.892857	Confident
+cl60_949	O125ab/O125ac/O125	20	24	0.833333	Confident
+cl60_950	O146	11	11	1.0	Highly confident
+cl60_951	O85	8	8	1.0	Highly confident
+cl60_953	O38	18	18	1.0	Highly confident
+cl60_955	O16	14	16	0.875	Confident
+cl60_956	O2/O50	12	14	0.857143	Confident
+cl60_958	KX40	1	2	0.5	Uncertain
+cl60_959	O8/O9/O9a	3	3	1.0	Highly confident
+cl60_960	O8/O9/O9a	1	1	1.0	Highly confident
+cl60_961	O1	2	2	1.0	Highly confident
+cl60_963	O166	20	20	1.0	Highly confident
+cl60_964	O109	57	60	0.95	Highly confident
+cl60_965	O150	16	16	1.0	Highly confident
+cl60_966	O13/O129/O135	1	1	1.0	Highly confident
+cl60_971	O150	7	7	1.0	Highly confident
+cl60_972	O116	1	1	1.0	Highly confident
+cl60_973	Shigella-B18	13	15	0.866667	Confident
+cl60_977	O118/O151;O39	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_981	O16	39	40	0.975	Highly confident
+cl60_982	O51	1	1	1.0	Highly confident
+cl60_983	O108	29	41	0.707317	Confident
+cl60_985	O23;O62/O68;O8/O9/O9a	1;1;1	3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_986	Klebsiella-K114	1	1	1.0	Highly confident
+cl60_988	O38	8	8	1.0	Highly confident
+cl60_992	O69	1	1	1.0	Highly confident
+cl60_994	O146	4	4	1.0	Highly confident
+cl60_996	O53	7	8	0.875	Confident
+cl60_999	KX13	21	23	0.913043	Highly confident
+cl60_1001	Klebsiella-K10	17	20	0.85	Confident
+cl60_1002	O23	42	47	0.893617	Confident
+cl60_1003	O116	3	3	1.0	Highly confident
+cl60_1006	O13/O129/O135	19	19	1.0	Highly confident
+cl60_1009	O108	1	1	1.0	Highly confident
+cl60_1013	O49	7	7	1.0	Highly confident
+cl60_1014	O107/O117	1	1	1.0	Highly confident
+cl60_1015	O10	3	3	1.0	Highly confident
+cl60_1016	O10	6	6	1.0	Highly confident
+cl60_1020	O11	20	23	0.869565	Confident
+cl60_1024	O2/O50	9	9	1.0	Highly confident
+cl60_1025	O5	2	2	1.0	Highly confident
+cl60_1026	O1	14	15	0.933333	Highly confident
+cl60_1028	O13/O129/O135	8	8	1.0	Highly confident
+cl60_1030	O174	1	1	1.0	Highly confident
+cl60_1032	O116	11	11	1.0	Highly confident
+cl60_1033	KX02	2	4	0.5	Uncertain
+cl60_1035	O27	11	11	1.0	Highly confident
+cl60_1036	O5	4	4	1.0	Highly confident
+cl60_1038	O126	16	16	1.0	Highly confident
+cl60_1040	O19	3	3	1.0	Highly confident
+cl60_1041	O53	3	3	1.0	Highly confident
+cl60_1042	KX42	1	1	1.0	Highly confident
+cl60_1043	KX42	1	1	1.0	Highly confident
+cl60_1045	O19	10	10	1.0	Highly confident
+cl60_1046	O8/O9/O9a	26	26	1.0	Highly confident
+cl60_1048	O107/O117	57	61	0.934426	Highly confident
+cl60_1052	O70	7	7	1.0	Highly confident
+cl60_1055	O136	11	11	1.0	Highly confident
+cl60_1056	O24/O56/O157	1	1	1.0	Highly confident
+cl60_1057	O103	20	20	1.0	Highly confident
+cl60_1058	O103	22	22	1.0	Highly confident
+cl60_1060	O8/O9/O9a	28	28	1.0	Highly confident
+cl60_1070	O102	22	22	1.0	Highly confident
+cl60_1072	O176	2	2	1.0	Highly confident
+cl60_1076	KX44	1	2	0.5	Uncertain
+cl60_1077	O15	1	1	1.0	Highly confident
+cl60_1078	O13/O129/O135	79	79	1.0	Highly confident
+cl60_1082	O149	28	28	1.0	Highly confident
+cl60_1084	KX11;KX42	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_1085	O169/O183	1	1	1.0	Highly confident
+cl60_1087	KX29	1	1	1.0	Highly confident
+cl60_1088	O149	18	19	0.947368	Highly confident
+cl60_1090	Klebsiella-K63	1	2	0.5	Uncertain
+cl60_1094	O121	5	5	1.0	Highly confident
+cl60_1097	O54	1	1	1.0	Highly confident
+cl60_1098	O182	28	30	0.933333	Highly confident
+cl60_1099	O36	2	5	0.4	Uncertain
+cl60_1100	O89/O101/O162	1	1	1.0	Highly confident
+cl60_1101	KX38	49	61	0.803279	Confident
+cl60_1105	Klebsiella-K9	1	1	1.0	Highly confident
+cl60_1107	O18/O18ab/O18ac	2	2	1.0	Highly confident
+cl60_1110	O1;O105;O107/O117	1;1;1	3	0.333333;0.333333;0.333333	Uncertain;Uncertain;Uncertain
+cl60_1115	KX29	1	1	1.0	Highly confident
+cl60_1117	KX75	1	1	1.0	Highly confident
+cl60_1118	O16	1	1	1.0	Highly confident
+cl60_1121	Klebsiella-K71	1	1	1.0	Highly confident
+cl60_1123	Klebsiella-K114	1	1	1.0	Highly confident
+cl60_1124	Klebsiella-K10	1	1	1.0	Highly confident
+cl60_1132	O17/O44/O73/O77/O106	6	6	1.0	Highly confident
+cl60_1133	O17/O44/O73/O77/O106	9	9	1.0	Highly confident
+cl60_1136	O18/O18ab/O18ac;O19	1;1	2	0.5;0.5	Uncertain;Uncertain
+cl60_1139	Klebsiella-K10	1	1	1.0	Highly confident
+cl60_1148	O45	2	2	1.0	Highly confident
+cl60_1149	Klebsiella-K63	21	35	0.6	Confident
+cl60_1152	O98	1	1	1.0	Highly confident
+cl60_1169	KX22;KX41	1;1	3	0.333333;0.333333	Uncertain;Uncertain
+cl60_1173	O2/O50	1	1	1.0	Highly confident
+cl60_1174	O17/O44/O73/O77/O106	2	2	1.0	Highly confident
+cl60_1185	58;O123/O186	1;1	1	1.0;1.0	Highly confident;Highly confident
+cl60_1188	O70	1	1	1.0	Highly confident
